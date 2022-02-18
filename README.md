@@ -1,3 +1,3 @@
 # cred-clone
 
-(Cred Clone)[https://cred-clone-iota.vercel.app/]
+(https://cred-clone-iota.vercel.app/)[Cred Clone](https://cred-clone-iota.vercel.app/)
